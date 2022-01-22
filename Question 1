@@ -1,0 +1,14 @@
+List 5 difference between Browser JS(console) v Nodejs
+Browser JS:
+1.	It is used for client-side applications like dynamic page display and executed in the web browser. 	
+2.	Browser.js runs any engine like spider monkey for firebox, V8 engine for google chrome, java script core for safari.	
+3.	It is a front-end development. 
+4.	Capable of adding HTML tags	
+5.	Some of the java script frame works  are RamdaJS, TypedJS.
+
+Node JS:
+1. It is used for server-side applications executed outside the web browser and act as an environment for running java script.
+2. Node.js runs in a V8 engine by google chrome.
+3. It is a back-end development.
+4. It is not capable of adding HTML tags.
+5. Some of the Node JS Modules  are Lodash, express.
