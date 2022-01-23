@@ -1,0 +1,6 @@
+watch & summary 5 points - https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
+1. Parsing Html document into DOM (Document object model) and parsing css style document into CSSOM (Cascading style sheet object model).
+2. DOM tree contains html elements and CSSOM tree contains style elements. This process is called render tree.
+3. Layout compute nodes position and size from render tree which will be display on screen.
+4. Paint produce bitmap for each layer into texture composite.
+5. Further paint compute composite to display on browser screen.
